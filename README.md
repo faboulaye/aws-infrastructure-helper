@@ -1,8 +1,6 @@
-# AWS VPC Stack
+# AWS infrastructure
 
-vpc	Describe VPC stack with minimum configurations
-    ├── README.md
-    ├── cloudformation
-    │   └── vpc-template.yml
-    └── terraform
+Templates ready to use.
+
+VPC	Describe stack with minimum configurations
 
